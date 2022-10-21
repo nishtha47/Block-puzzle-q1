@@ -11,8 +11,8 @@ Reset button for reseting the status to default
 
 Output format is in form of
 
-XX..X 
-X.X.X 
-..X..
-..XXXXX..
+**..*
+*..*.*..*.*.* 
+..*..
+..*****..
 
